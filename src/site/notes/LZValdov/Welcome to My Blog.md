@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/lz-valdov/welcome-to-my-blog/","tags":["gardenEntry"],"created":"2025-03-15T12:11:57.332-07:00","updated":"2025-03-16T11:18:46.059-07:00"}
+{"dg-publish":true,"permalink":"/lz-valdov/welcome-to-my-blog/","tags":["gardenEntry"],"created":"2025-03-15T12:11:57.332-07:00","updated":"2025-03-16T11:47:48.191-07:00"}
 ---
 
+
+![Luis_small.png](/img/user/LZValdov/Luis_small.png)
 Hello, I'm Luis. I'm driven by the intersection of technology and communication, a place where complex ideas become clear, and innovation meets practical application. My journey has been a blend of technical depth and creative expression, shaping me into a versatile professional capable of bridging the gap between the digital world and human understanding.
 
 My foundation is built on solid technical expertise. With degrees in Computer Science and Information Technology, I've spent years immersed in the world of IT support. This experience has given me a deep understanding of how technology impacts users at every level, from troubleshooting everyday issues to implementing enterprise-level solutions. I've learned to speak the language of technology, but more importantly, I've learned to translate it into language anyone can understand.
