@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lz-valdov/welcome-to-my-blog/","tags":["gardenEntry"],"created":"2025-03-15T12:11:57.332-07:00","updated":"2025-03-16T13:58:16.780-07:00"}
+{"dg-publish":true,"permalink":"/lz-valdov/welcome-to-my-blog/","tags":["gardenEntry"],"created":"2025-03-15T12:11:57.332-07:00","updated":"2025-03-31T07:01:18.920-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Hello, I'm Luis. I'm driven by the intersection of technology and communication,
 
 My foundation is built on solid technical expertise. With degrees in Computer Science and Information Technology, I've spent years immersed in the world of IT support. This experience has given me a deep understanding of how technology impacts users at every level, from troubleshooting everyday issues to implementing enterprise-level solutions. I've learned to speak the language of technology, but more importantly, I've learned to translate it into language anyone can understand.
 
-But my story doesn't stop there. I'm also a published science fiction author. My writing has sharpened my ability to craft compelling narratives, to communicate complex ideas in an engaging way. Since 2009, I've applied these skills professionally, creating everything from detailed technical documentation to persuasive business plans and captivating website copy. Whether I'm explaining a complex algorithm or crafting a marketing message, I strive to make information accessible and impactful.
+But my story doesn't stop there. I'm also a published author. My writing has sharpened my ability to craft compelling narratives, to communicate complex ideas in an engaging way. Since 2009, I've applied these skills professionally, creating everything from detailed technical documentation to persuasive business plans and captivating website copy. Whether I'm explaining a complex algorithm or crafting a marketing message, I strive to make information accessible and impactful.
 
 My experience as a software and web developer has further emphasized the importance of clear communication. I've taken pride in creating comprehensive documentation that empowers users and ensures project success.
 
